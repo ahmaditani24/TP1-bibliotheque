@@ -1,0 +1,6 @@
+﻿  Lecteur.cpp
+  main.cpp
+C:\Users\Administrator\Desktop\UNIVERSITES\3-Prog C C++\practice\TP1\main.cpp(10,33): warning C4305: 'argument': truncation from '__int64' to 'int'
+C:\Users\Administrator\Desktop\UNIVERSITES\3-Prog C C++\practice\TP1\main.cpp(10,33): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+  TP1.vcxproj -> C:\Users\Administrator\Desktop\UNIVERSITES\3-Prog C C++\practice\TP1\x64\Debug\TP1.exe
