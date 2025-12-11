@@ -3,40 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Bibliotheque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Bibliotheque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Bibliotheque.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Bibliotheque.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Lecteur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Lecteur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Lecteur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Lecteur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Auteur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Auteur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Auteur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Auteur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Livre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Livre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Livre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Livre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Livre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Livre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Auteur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Auteur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Lecteur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Lecteur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Auteur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Auteur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Livre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Livre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Emprunt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Emprunt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Emprunt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D2C643-2AC3-4BBC-95AE-5EAB447DFE36}|TP1.vcxproj|solutionrelative:Emprunt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,39 +66,29 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "date.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\date.h",
-              "RelativeDocumentMoniker": "date.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\date.h",
-              "RelativeToolTip": "date.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-08T12:41:24.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "date.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\date.cpp",
               "RelativeDocumentMoniker": "date.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\date.cpp",
               "RelativeToolTip": "date.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-08T12:41:43.319Z"
+              "WhenOpened": "2025-12-08T12:41:43.319Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Livre.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Livre.h",
               "RelativeDocumentMoniker": "Livre.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Livre.h",
               "RelativeToolTip": "Livre.h",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwB4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-08T13:14:38.193Z"
+              "WhenOpened": "2025-12-08T13:14:38.193Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,69 +98,139 @@
               "RelativeDocumentMoniker": "Livre.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Livre.cpp",
               "RelativeToolTip": "Livre.cpp",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwCoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-08T13:14:41.748Z"
+              "WhenOpened": "2025-12-08T13:14:41.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Auteur.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Auteur.h",
               "RelativeDocumentMoniker": "Auteur.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Auteur.h",
               "RelativeToolTip": "Auteur.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-08T14:54:54.955Z"
+              "WhenOpened": "2025-12-08T14:54:54.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Auteur.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Auteur.cpp",
               "RelativeDocumentMoniker": "Auteur.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Auteur.cpp",
               "RelativeToolTip": "Auteur.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-08T14:54:54.862Z"
+              "WhenOpened": "2025-12-08T14:54:54.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Lecteur.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Lecteur.h",
               "RelativeDocumentMoniker": "Lecteur.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Lecteur.h",
               "RelativeToolTip": "Lecteur.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-08T16:06:14.882Z"
+              "WhenOpened": "2025-12-08T16:06:14.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Lecteur.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Lecteur.cpp",
               "RelativeDocumentMoniker": "Lecteur.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Lecteur.cpp",
               "RelativeToolTip": "Lecteur.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAADAMjMzMzMLwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-08T16:06:43.4Z"
+              "WhenOpened": "2025-12-08T16:06:43.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bibliotheque.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Bibliotheque.h",
+              "RelativeDocumentMoniker": "Bibliotheque.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Bibliotheque.h",
+              "RelativeToolTip": "Bibliotheque.h",
+              "ViewState": "AgIAAAcAAAAwZWZmZmYkwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T07:48:50.865Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bibliotheque.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Bibliotheque.cpp",
+              "RelativeDocumentMoniker": "Bibliotheque.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Bibliotheque.cpp",
+              "RelativeToolTip": "Bibliotheque.cpp",
+              "ViewState": "AgIAAA0AAADgMzMzMzMbwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T07:48:55.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAADgMjMzMzMrwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-08T12:46:54.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "date.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\date.h",
+              "RelativeDocumentMoniker": "date.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\date.h",
+              "RelativeToolTip": "date.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-08T12:41:24.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Emprunt.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Emprunt.h",
+              "RelativeDocumentMoniker": "Emprunt.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Emprunt.h",
+              "RelativeToolTip": "Emprunt.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T07:36:42.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Emprunt.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Emprunt.cpp",
+              "RelativeDocumentMoniker": "Emprunt.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\UNIVERSITES\\2-MODULE 2 Prog C C\u002B\u002B\\TP\\TP1\\Emprunt.cpp",
+              "RelativeToolTip": "Emprunt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T07:36:46.394Z",
               "EditorCaption": ""
             }
           ]

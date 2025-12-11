@@ -124,13 +124,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Auteur.h" />
+    <ClInclude Include="Bibliotheque.h" />
     <ClInclude Include="date.h" />
+    <ClInclude Include="Emprunt.h" />
     <ClInclude Include="Lecteur.h" />
     <ClInclude Include="Livre.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Auteur.cpp" />
+    <ClCompile Include="Bibliotheque.cpp" />
     <ClCompile Include="date.cpp" />
+    <ClCompile Include="Emprunt.cpp" />
     <ClCompile Include="Lecteur.cpp" />
     <ClCompile Include="Livre.cpp" />
     <ClCompile Include="main.cpp" />
